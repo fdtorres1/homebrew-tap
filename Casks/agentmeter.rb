@@ -1,6 +1,6 @@
 cask "agentmeter" do
-  version "1.6.4"
-  sha256 "4f022762697382b465ee511ad806b60ca78f8b21a0fa08950d37467b22b64965"
+  version "1.6.5"
+  sha256 "f4ae33688df882220acb31cc0fab4abc8cd0d0deb92ce5b100e3c523da6ecd9f"
 
   url "https://github.com/fdtorres1/AgentMeter/releases/download/v#{version}/AgentMeter.zip"
   name "AgentMeter"
